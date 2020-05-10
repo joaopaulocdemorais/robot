@@ -1,1 +1,1 @@
-Projeto Site para empresa drones, ultlizando apenas html e css
+Projeto de Site reposivo para empresa drones, ultlizando apenas html e css
